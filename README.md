@@ -1,4 +1,4 @@
-Hi there, I am Oluwaseun Ogunseitan. I am a data analyst well experienced in data modelling, data structuring, data analytics and visualization in making well informed strategic and tactical business decisions. I am also highly profoicient in a wide range of data tools such as Microsoft Excel, Google Sheets, Python, SQL and visualization tools such Microsoft Power BI, Tableau etc.
+Hi there, I am Oluwaseun Ogunseitan. I am a data analyst well experienced in data modelling, data structuring, data analytics and visualization in making well informed strategic and tactical business decisions. I am also highly proficient in a wide range of data tools such as Microsoft Excel, Google Sheets, Python, SQL and visualization tools such Microsoft Power BI, Tableau etc.
 
 Expertise:
 
